@@ -1,0 +1,41 @@
+.comment{
+    clear: both;
+    padding: 14px 10px;
+    background: #f1f1f1;
+    margin: 15px 10px;
+    border-radius: 5px;
+}
+.img-circle{
+  float:left;
+}
+
+.img-circle>img{
+  border-radius: 50%;
+}
+
+.comment-info{
+  padding-left: 75px;
+  margin-top: 15px;
+
+}
+
+.comment-info>h4, p{
+  margin: 6px 0px;
+}
+/**
+  Paginator style
+**/
+.paginator{
+  width: 100%;
+}
+
+.page-range{
+  float: left;
+  padding-left: 10px;
+}
+
+.page-nav{
+  float: right;
+  padding-right: 10px;
+}
+
